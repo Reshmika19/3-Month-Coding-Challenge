@@ -1,7 +1,6 @@
 # 3-Month-Coding-Challenge
 
-👋 Welcome to my 3-month coding challenge!
-Starting October 1st, I am committed to solving the most frequently asked coding problems, especially those that are useful for technical interviews. Over the course of 3 months, I will focus on Data Structures, Algorithms, and Problem-Solving with a special focus on array-based problems, followed by other critical topics in November and December.
+👋 Welcome to my 3-month coding challenge! Starting October 1st, I am committed to solving the most frequently asked coding problems, especially those that are useful for technical interviews. Over the course of 3 months, I will focus on Data Structures, Algorithms, and Problem-Solving with a special focus on array-based problems, followed by other critical topics in November and December.
 
 🔥 Why This Challenge?
 The goal is to build consistency and solve coding problems that will prepare me for placement interviews, covering a wide range of frequently asked problems in top tech companies.
@@ -18,8 +17,14 @@ Programming Language: Most problems will be solved using Java.
 GitHub Repository: The code for each problem will be organized by topic and date to make it easy to follow along.
 
 🧰 Tools & Resources:
-LeetCode / GeeksForGeeks for problems.
-Java for implementing the solutions.
-GitHub to track and share progress.
+Platforms: LeetCode / GeeksForGeeks for problem-solving.
+Languages: Most solutions will be implemented using Java.
+Progress Tracking: This repository will serve as a tracker for my daily progress.
 
-Happy Coding! 😊
+📝 My Profiles:
+LeetCode: https://leetcode.com/u/reshmikaks19/
+GitHub Projects: https://github.com/Reshmika19
+Explore some of my projects:
+Homify – A mobile app for streamlining household tasks. (Visit my Git)
+Portfolio: My Personal Portfolio (https://reshmika19.github.io/PortFolio/) – Learn more about my experience, skills, and projects.
+
