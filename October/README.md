@@ -29,3 +29,9 @@ List of Problems
 14 October - Find Peak, Minimum Element in Array
 
 15 October - Happy Number, Longest Subsequence Number
+
+16 October - Top k Frequent Elements, Kth Largest Element
+
+17 October - House Robber, Subsets
+
+18 October - Longest Palindromic Substring, Longest Common Prefix, Group Anagrams
