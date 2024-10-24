@@ -34,4 +34,6 @@ List of Problems
 
 17 October - House Robber, Subsets
 
-18 October - Longest Palindromic Substring, Longest Common Prefix, Group Anagrams
+18 October - Roman to Integer , Implement Strstr , Valid Anagrams
+
+19 October - Product of numbers except self , Buy and Sell Stock II
